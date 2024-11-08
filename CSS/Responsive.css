@@ -1,0 +1,16 @@
+@media (max-width: 1440px) {
+  main {
+    /* font-size: 0.5rem;  */
+    margin-top: 0.5rem;
+    transform: scale(0.8rem);
+  }
+}
+@media (max-width: 375px) {
+  body {
+    margin: 10rem 0;
+  }
+  main {
+    width: 100%;
+    transform: scale(0.9);
+  }
+}
