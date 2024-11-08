@@ -6,27 +6,18 @@
   }
 }
 @media (max-width: 1200px) {
-  body {
-    margin: 10rem 0;
-  }
   main {
     width: 40%;
     transform: scale(0.9);
   }
 }
 @media (max-width: 770px) {
-  body {
-    margin: 10rem 0;
-  }
   main {
     width: 50%;
     transform: scale(0.9);
   }
 }
 @media (max-width: 610px) {
-  body {
-    margin: 10rem 0;
-  }
   main {
     width: 60%;
     transform: scale(0.9);
@@ -34,9 +25,6 @@
 }
 
 @media (max-width: 465px) {
-  body {
-    margin: 10rem 0;
-  }
   main {
     width: 80%;
     transform: scale(0.9);
@@ -44,9 +32,6 @@
 }
 
 @media (max-width: 375px) {
-  body {
-    margin: 10rem 0;
-  }
   main {
     width: 100%;
     transform: scale(0.9);
