@@ -17,26 +17,16 @@
     transform: scale(0.9);
   }
 }
-@media (max-width: 610px) {
-  main {
-    width: 60%;
-    transform: scale(0.9);
-  }
-}
-
-@media (max-width: 465px) {
+@media (max-width: 720px) {
   main {
     width: 80%;
     transform: scale(0.9);
   }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 425px) {
   main {
     width: 100%;
     transform: scale(0.9);
-  }
-  body {
-    /* margin: 1rem; */
   }
 }
