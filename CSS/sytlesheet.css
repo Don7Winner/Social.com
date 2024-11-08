@@ -22,7 +22,7 @@ body {
 main {
   background-color: hsl(0, 0%, 12%);
   border-radius: 1.2rem;
-  width: 30%;
+  width: 40%;
   transform: scale(0.7);
   /* margin: 0 auto; */
 }
